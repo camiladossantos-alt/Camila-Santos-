@@ -1,6 +1,10 @@
 
 # Hi there 👋 I'm Camila
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajBpaHkyYXRlZGxvYmlsNzZhanVtdjM2d2wzbWFnd29pMnE3bDRnaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ypqHf6pQ5kQEg/giphy.gif" width="400" />
+</p>
+
 ## Product Management | AI | Data-Driven Innovation
 
 I transform ideas into meaningful digital products by connecting user needs, business goals, and emerging technologies.
